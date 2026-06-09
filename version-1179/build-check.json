@@ -1,0 +1,11 @@
+{
+  "movies_parsed": 2000,
+  "detail_pages": 2000,
+  "category_pages": 10,
+  "category_cards_total": 2000,
+  "html_pages_total": 2017,
+  "m3u8_sources": 20,
+  "missing_baidu": [],
+  "visible_forbidden_hits": [],
+  "zip_bytes": 10292808
+}
